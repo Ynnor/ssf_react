@@ -1,0 +1,2655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form xmlns:android="http://schemas.android.com/apk/res/android">
+    <menu>
+        <name>Kommunikation och undervisning</name>
+        <menu>
+            <name>1. Kommunikation och undervisning</name>
+            <moment>
+                <name>Samtal med patient med annan kulturell bakgrund/annat språk</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samtal med patient med nedsatt hörsel</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samtal med patient med nedsatt syn</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samtal med patient med afasi</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samtal med patient med förvirrningstillstånd</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samtal med patient med oro/ångest</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Identitetskontroll</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Sekretess/tystnadsplikt</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Förbereda och genomföra professionella samtal/möten
+                </name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Telefonrådgivning</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>2. Kommunicera med och bemöta familj/närstående</name>
+            <moment>
+                <name>Vardagssamtal</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samtal med/stöd till närstående</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Professionella samtal/möten</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>3. Samverka med olika instanser inom vård/omsorg</name>
+            <moment>
+                <name>Olika yrkesgrupper vid enheten; ex omv.personal, sjg, at, läk, chef</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Annan vårdenhet vid inskrivning, utskrivning</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Konsultation, biståndshandläggare/socialtjänst</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Myndigheter/instanser ex socialtjänst, polis, barnombudsman</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>4. Informera/undervisa patienter och närstående</name>
+            <moment>
+                <name>Vårdåtgärder ex sårvård, hjälpmedel, kost, egenvård</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Undersökningar och behandlingar</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Läkemedelseffekter och biverkningar</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Uppföljning av givna instruktioner</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>5. Informera/undervisa medarbetare och studenter</name>
+            <moment>
+                <name>Berättat om ex ssk-utbildningen och högskolans krav</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Delgett vetenskapliga rön ur artikel</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Återgett innehåll från föreläsning eller läst litteratur</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Bedömt behov av/undervisa, handleda studerande/medarbetare</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+    </menu>
+    <menu>
+        <name>Omvårdnadsprocessen</name>
+        <menu>
+            <name>6. Bedöma patientens behov av omvårdnad</name>
+            <moment>
+                <name>Allmän omvårdnad; fysiska behov, resurser, risker vid personlig hygien</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Allmän omvårdnad; fysiska behov, resurser, risker vid bäddning</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Allmän omvårdnad; fysiska behov, resurser, risker vid aktivitet</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Allmän omvårdnad; fysiska behov, resurser, risker vid nutrition</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <moment>
+            <name>Allmän omvårdnad; fysiska behov, resurser, risker vid elimination</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Allmän omvårdnad; behov utifrån stämningsläge</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Allmän omvårdnad; psykiska/sociala/kulturella behov, resurser, risker</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Specifik omvårdnad; psykisk och psykiatrisk/somatisk vård</name>
+            <exam></exam>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma hud och perifer cirkulation</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma sår/Nortonskalan</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma munhälsa/munvård</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma nutrition ex vätskelista, MNA</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma BMI-beräkning</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma medvetandegrad</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma smärta, VAS</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma kontrakturprofylax</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma fallskadeprevention</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma ADL</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <moment>
+            <name>Subjektiva/objektiva metoder, skalor, för att bedöma boendemiljö/vårdmiljö</name>
+            <exam></exam>
+            <observed year="1">0</observed>
+            <observed year="2">0</observed>
+            <observed year="3">0</observed>
+            <performed-mentor year="1">0</performed-mentor>
+            <performed-mentor year="2">0</performed-mentor>
+            <performed-mentor year="3">0</performed-mentor>
+            <performed-alone year="1">0</performed-alone>
+            <performed-alone year="2">0</performed-alone>
+            <performed-alone year="3">0</performed-alone>
+            <comment-moment></comment-moment>
+        </moment>
+        <menu>
+            <name>7. Planera och prioritera omvårdnadsåtgärder</name>
+            <moment>
+                <name>Allmän omvårdnad till uppegående patient</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Allmän omvårdnad till sängliggande patient</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Specifik omvårdnad till uppegående/sängliggande patient</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>8. Utföra omvårdnadsåtgärder Allmän omvårdnad</name>
+            <moment>
+                <name>På- och avklädning</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Bäddning till sängliggande patient</name>
+                <exam>Bäddning (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Personlig hygien till uppegående patient ex bad/dusch</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Övre och nedre toalett till sängliggande patient</name>
+                <exam>Personlig hygien (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Munvård: egna tänder, protes, brygga</name>
+                <exam>Personlig hygien (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Hörselvård, hörapparat</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Ögonvård, ögonprotes, linser, glasögon</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Handvård, fotvård (naglar)</name>
+                <exam>Personlig hygien (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Navelvård</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>I samband med uttömningar, bäcken/flaska/toalett</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Vila och sömn</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Förflyttning enl. ergonomiska principer, hjälpmedel/taklyft</name>
+                <exam>Ergonomi (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Fallprevention</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Decubitusprofylax ex lägesändringar, sängutrustning, hudvård</name>
+                <exam>Sänglägeskompl (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Kontrakturprofylax</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Obstipation: profylax/åtgärd</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Trombos: profylax/åtgärd; ex linda ben/antitrombosstrumpa</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Andning: profylax/åtgärd ex CPAP, PEP-flaska</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Matintag för patient utan sväljsvårigheter</name>
+                <exam>Hjälp att äta (T1)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Matintag för patient med sväljsvårigheter</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>9. Utföra omvårdnadsåtgärder Specifik omvårdnad</name>
+            <moment>
+                <name>Vård av förlamad patient</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Preoperativ vård/postoperativ vård</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Förberedelse inför undersökning ex röntgen, scopi, ECT-beh</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Akut omhändertagande (ABCDE)</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Öppen/sluten psykiatrisk vård</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Vård i hemmet/vid hälsocentral</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Vård vid livets slut</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Omhändertagande efter döden av den avlidne</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Omhändertagande efter döden av närstående</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Omhändertagande efter döden av administrativa uppgifter</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>10. Följa upp behov/problem och omvårdnadsåtgärder</name>
+            <moment>
+                <name>Omvårdnadsstatus</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Tecken på förändring/stabilitet</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Resultat av utförda omvårdnadsåtgärder</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>11. Rapportera, dokumentera och föra journal</name>
+            <moment>
+                <name>Muntlig rapport, saklig och korrekt</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Skriftlig rapport, saklig och korrekt</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samla data och dokumentera ankomstsamtal i omvårdnadsjournal</name>
+                <exam>Övningar i dokumentation (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samla data och dokumentera omvårdnadsanamnes i omvårdnadsjournal</name>
+                <exam>Övningar i dokumentation (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samla data och dokumentera omvårdnadsstatus i omvårdnadsjournal</name>
+                <exam>Övningar i dokumentation (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samla data och dokumentera omvårdnadsdiagnos i omvårdnadsjournal</name>
+                <exam>Övningar i dokumentation (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samla data och dokumentera omvårdnadsepikris i omvårdnadsjournal</name>
+                <exam>Övningar i dokumentation (T2)</exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Tagit del av journalhandlingar</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Använt datorstöd</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+    </menu>
+    <menu>
+        <name>Undersökningar och behandlingar</name>
+        <menu>
+            <name>12. Medverka/genomföra undersökningar/behandlingar</name>
+            <moment>
+                <name>Vikt och längd</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Puls och blodtryck; palpatoriskt/auskultatoriskt</name>
+                <exam>Puls/blodtryck (T1)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Temperaturmätning</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Andningsfrekvens, lyssna på lungor</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Lyssna på tarmljud</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Kapillärprovstagning; Hb, P-glukoskontroll</name>
+                <exam>Kappilärprover (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Hb-apparat, P-glukos mätare</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Venös blodprovstagning</name>
+                <exam>Venprovtagning (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Blodgruppering/bastest/förenlighetstest</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Urinprover</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Avföringsprover</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Bakteriologisk provtagning; sår, urin, faeces, naso-pharynx</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Blododling</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Inläggning av PVK</name>
+                <exam>PVK (T3), CVK sc.venport (T3)</exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Katetrisering/KAD kvinna</name>
+                <exam>Katetrisering av urinvägar (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Katetrisering/KAD man</name>
+                <exam>Katetrisering av urinvägar (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Bladder-scanner/ RIK</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Sårvård med/utan dränage</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Suturtagning</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Bensår med och utan kompression (linda, strumpa)</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Stomivård; colostomi, ileostomi</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Urostomivård: suprapubisk, nefro-/pyelostomi</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Vattenlavemang</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Infusion i PVK</name>
+                <exam>Iordningställa infusion (T3)</exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Infusion i CVK, sc venport</name>
+                <exam>Iordningställa infusion (T3)</exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Transfusion av blodprodukter</name>
+                <exam>Blodtrans/S-vall) (T?)</exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Infusionspump</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Droppräknare</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Nedläggning av ventrikelsond</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Sondmatning via PEG/nasogastrisk sond</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>saturationsmätning</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Syrgasbehandling (mask, kateter)</name>
+                <exam>S-vall (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>PEP-flaska/-mask</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Sugning av övre luftväg/trachoestoma</name>
+                <exam>S-vall (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>PEF-mätning</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Lumbalpunktion</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Pleuradrän</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>EKG</name>
+                <exam>EKG (S-vall) (T?)</exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Grundläggande HLR (till vuxen)</name>
+                <exam>Basal HLR (T2)</exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>HLR barn</name>
+                <exam>HLR barn (T4)</exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>S-HLR, Hjärtstartare</name>
+                <exam>S-HLR (T6)</exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Funktionsbedömning/rörelseaktivitet med arbetster., sjukgymn.</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Medverkat vid läkarundersökning</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Andra Undersökningar och Behandlingar</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>13. Handha läkemedel; Beräkna/iordningställa/administrera/dokumentera</name>
+            <moment>
+                <name>FASS/författningar</name>
+                <exam>LM-behandling</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Perorala</name>
+                <exam>LM-beräkning (T1-T6)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Sc injektioner inkl insulinpenna</name>
+                <exam>Sc injektion (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Im injektioner</name>
+                <exam>Im injektion (T2)</exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Iv injektioner</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Inhalation</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Rektala, vaginala</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Ögondroppar, ögonsalva</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Tillsatser till infusion</name>
+                <exam>Tillsats infusion (T3)</exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Narkotika</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Toxiska</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Vaccination</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Läkemedelsbeställning</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+    </menu>
+    <menu>
+        <name>Arbetsledning och samarbete</name>
+        <menu>
+            <name>14. Planera, organisera, fördela arbetsuppgifter</name>
+            <moment>
+                <name>Planerat, prioriterat, organiserat eget arbete</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Samordnat olika insatser</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Lett, prioriterat, fördelat och samordnat omv.arbetet i teamet</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Delegerat arbetsuppgifter</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Tillvaratagit medarbetarnas kompetens</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Vårdplanering/vårdkedjan</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Kostnads- och kvalitetsmedvetenhet</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>15. Samarbete</name>
+            <moment>
+                <name>Teamwork med olika yrkesrepresentanter</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>I studentteam</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>16. Handlingsberedskap för akuta situationer</name>
+            <moment>
+                <name>Tagit egna initiativ</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Handlat adekvat i oväntade situationer</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Anpassat arbetstakt efter arbetsuppgifter/omdisponerat vb</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>17. Säkerhetsmedvetenhet </name>
+            <moment>
+                <name>Hygienprinciper, säkerhetsföreskrifter och författningar för smitta och smittspridning</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Hygienprinciper, säkerhetsföreskrifter och författningar för riskavfall</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Hygienprinciper, säkerhetsföreskrifter och författningar för teknisk utrustning</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Hygienprinciper, säkerhetsföreskrifter och författningar för kemikalier</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Rena rutiner</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Sterila metoder</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Barriärvård</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Sköljrummets funktioner</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Patientlarm, ex larmmattor etc.</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Larm/utrustning vid hjärt-lung-räddning (HLR)</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Syrgas/gastuber/syrgaskoncentrator</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Brandskydd: larm,larmplan,utrymningsplan,utrustning,återsam</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Avvikelsehantering, anmälningsskyldighet</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Skyddsutrustning</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Risk för överfall, skada av föremål</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Säkerhet vid psykiatrisk vård</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+    </menu>
+    <menu>
+        <name>Professionellt förhållningssätt</name>
+        <menu>
+            <name>18. Vetenskaplig medvetenhet  (evidensbaserad omvårdnad)</name>
+            <moment>
+                <name>Reflekterat och analyserat det dagliga arbetet</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Använt/disk kunskap från forskning och utvecklingsarb.</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Sökt ny kunskap</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Förmedlat resultat från vetenskapliga artiklar/rapporter</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Uppmärksammat behov av ändrade vårdåtgärder</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>19. Etisk medvetenhet</name>
+            <moment>
+                <name>Patientens självbestämmande och integritet</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Öppenhet, mod, hänsyn till olika värderingar</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Vård på lika villkor, frihet att välja, vård enligt lag</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>20. Självkännedom</name>
+            <moment>
+                <name>Självkritik</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Egen styrka och begränsningar</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Förändringsbenägen</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Eget ansvar för inlärning och utveckling</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>21. Noggrannhet, pålitlighet och omdöme</name>
+            <moment>
+                <name>Initierat, prioriterat och slutfört åtaganden</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Följt föreskrifter och författningar</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Följt muntliga/skriftliga instruktioner</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Förmedlat trygghet till handledare/medarbetare att uppgifter utförts adekvat</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+        <menu>
+            <name>22. Självständighet</name>
+            <moment>
+                <name>Argumenterat och motiverat handlingar</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Varit införstådd med det egna ansvarsområdet och dess begränsningar</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Tagit ansvar för egna handlingar</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Visat initiativ</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Haft problemlösande förhållningssätt, självständig, professionellt</name>
+                <exam></exam>
+                <observed year="1">0</observed>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="1">0</performed-mentor>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="1">0</performed-alone>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+            <moment>
+                <name>Reflekterat över ledarskapets betydelse för vårdarbetet</name>
+                <exam></exam>
+                <observed year="2">0</observed>
+                <observed year="3">0</observed>
+                <performed-mentor year="2">0</performed-mentor>
+                <performed-mentor year="3">0</performed-mentor>
+                <performed-alone year="2">0</performed-alone>
+                <performed-alone year="3">0</performed-alone>
+                <comment-moment></comment-moment>
+            </moment>
+        </menu>
+    </menu>
+    <comment year="1"></comment>>
+    <comment year="2"></comment>>
+    <comment year="3"></comment>
+</form>
